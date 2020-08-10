@@ -1,0 +1,8 @@
+name "srv"
+description "Dlang fake http mining server."
+authors "yamukha@ukr.net"
+copyright "Copyright © 2020, yamukha@ukr.net"
+license "MIT"
+dependency "vibe-d" version="~>0.9.0"
+dependency "sodium:deimos" version="~>0.1.7"
+dependency "tinyredis" version="~>2.2.1"
